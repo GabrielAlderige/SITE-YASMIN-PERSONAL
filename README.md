@@ -11,14 +11,14 @@
 
 | Desktop | Mobile |
 |:---:|:---:|
-| ![Home Desktop](caminho/para/imagem-desktop.png) | ![Home Mobile](caminho/para/imagem-mobile.png) |
-*(Substitua os caminhos acima por prints reais do seu projeto ou apague esta seção se não tiver imagens ainda)*
+| ![Home Desktop](/image.png) | ![Home Mobile](/image2.jpeg) |
+
 
 ---
 
 ## 🚀 Sobre o Projeto
 
-Este projeto é um site institucional/portfólio desenvolvido para **[Nome da Personal]**. O objetivo principal é centralizar informações sobre consultorias, mostrar resultados de alunos (antes e depois) e facilitar o contato para contratação de planos.
+Este projeto é um site institucional/portfólio desenvolvido para Yasmin Silva. O objetivo principal é centralizar informações sobre consultorias, mostrar resultados de alunos (antes e depois) e facilitar o contato para contratação de planos.
 
 O foco técnico foi criar uma aplicação rápida, com código limpo e tipagem estática para garantir robustez.
 
@@ -26,7 +26,7 @@ O foco técnico foi criar uma aplicação rápida, com código limpo e tipagem e
 
 - [x] **Apresentação:** Seção "Sobre Mim" com bio profissional.
 - [x] **Serviços:** Cards detalhando planos (Presencial, Online, Híbrido).
-- [x] **Galeria de Transformações:** Slider/Grid com fotos de alunos.
+- [x] **Formulário:** formulário com pergunta e captura de dados
 - [x] **Depoimentos:** Área de prova social.
 - [x] **Botão de CTA:** Redirecionamento direto para o WhatsApp/Formulário.
 - [x] **Design Responsivo:** Adaptado para celulares, tablets e desktops.
@@ -40,8 +40,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **[React.js / Next.js / Vite]:** (Escolha o que você usou) para construção da interface.
 - **TypeScript:** Para garantir tipagem estática e um código mais seguro.
 - **[Styled Components / Tailwind CSS / Sass]:** Para estilização.
-- **[Framer Motion]:** (Se usou animações) Para animações fluidas.
-- **[EmailJS / Formspree]:** (Se tiver) Para envio de formulários.
+- **[Framer Motion]:** Para animações fluidas.
 
 ---
 
